@@ -1,10 +1,17 @@
 {
-  "date": "2026-09-13",
-  "theme": "Health & Mindfulness",
-  "quote": "The best time to plant a tree was twenty years ago. The second best time is now.",
-  "explanation": "Every small step we take today shapes the world we live in tomorrow.",
-  "caption": "The best time to plant a tree was twenty years ago. The second best time is now.\n\nEvery small step we take today shapes the world we live in tomorrow.",
-  "hashtags": "#Cogentic #JalteDiyeFoundation",
+  "date": "2026-09-14",
+  "theme": "Foundation Events",
+  "quote": "Every event we host seeds hope, cultivates change, and builds a brighter tomorrow, together.",
+  "explanation": "Join us at our upcoming events to witness the power of community in action. Your participation fuels our mission to illuminate lives and inspire positive change.",
+  "caption": "Every event we host seeds hope, cultivates change, and builds a brighter tomorrow, together.\n\nJoin us at our upcoming events to witness the power of community in action. Your participation fuels our mission to illuminate lives and inspire positive change.\n\n#JalteDiyeFoundation #FoundationEvents #CommunityImpact #MakeADifference #HopeForTomorrow #JoinUs",
+  "hashtags": [
+    "#JalteDiyeFoundation",
+    "#FoundationEvents",
+    "#CommunityImpact",
+    "#MakeADifference",
+    "#HopeForTomorrow",
+    "#JoinUs"
+  ],
   "image": "latest/poster.jpg",
   "source": "Cogentic AI"
 }
